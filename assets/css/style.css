@@ -13,6 +13,13 @@ ul li {
     list-style: none;
 }
 
+nav {
+    background-color: burlywood;
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+
 footer {
     color: bisque;
 }
